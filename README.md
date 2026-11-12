@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# installation Create React App
+
+````npx create-react-app markdown```
+
+```cd markdown```
+
+```npm install marked bootstrap```
+
+```npm install dompurify```
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
