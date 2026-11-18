@@ -52,14 +52,16 @@ class App extends Component {
             </div>
             <div className="col-sm-6">
               <div dangerouslySetInnerHTML={{__html:this.renderText(this.state.text)}}></div>
+              {/* <div dangerouslySetInnerHTML={{__html:this.renderText(this.state.text)}} /> */}
             </div>
           </div>
         </div>
-      </>
+      </>   
      );
   }
 }
  
 export default App;
+
 
 
